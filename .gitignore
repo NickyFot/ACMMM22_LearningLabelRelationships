@@ -1,0 +1,8 @@
+venv/*
+venv2/*
+.idea/
+models/*
+__pycache__/*
+c3d.pickle
+*.pyc
+logs/
