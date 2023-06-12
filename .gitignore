@@ -2,6 +2,7 @@ venv/*
 venv2/*
 .idea/
 models/*
+!models/resnet50_face_sfew_dag.pth
 __pycache__/*
 c3d.pickle
 *.pyc
