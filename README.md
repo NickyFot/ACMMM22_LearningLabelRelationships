@@ -1,5 +1,7 @@
 # Learning from Label Relationships in Human Affect
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/learning-from-label-relationships-in-human/continuous-affect-estimation-on-amigos)](https://paperswithcode.com/sota/continuous-affect-estimation-on-amigos?p=learning-from-label-relationships-in-human)
+
 Authors official PyTorch implementation of the **[Learning from Label Relationships in Human Affect](https://arxiv.org/pdf/2207.05577.pdf)**. If you use this code for your research, please [**cite**](#citation) our paper.
 
 > **Learning from Label Relationships in Human Affect**<br>
